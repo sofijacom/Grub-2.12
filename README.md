@@ -5,5 +5,5 @@
 - *To FAT32 partition*
 
 ```
-tar xJf Grub-2.12.tar.xz --overwrite -C /mnt/sda1
+tar xJf Grub-2.12.tar.xz -C /mnt/sda1
 ```
