@@ -1,12 +1,6 @@
 #  GNU Grub-2.12
 
 
-- *To FAT32 partition*
-
-```
-tar xJf Grub-2.12.tar.xz -C /mnt/sda1
-```
-
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
